@@ -18,3 +18,4 @@ blockchain network. The Fluidity blockchain therefore allows DPROGs to invoke ot
 When deploying DPROGs, you should use the latest released version of Hydrogenesis. This is because breaking changes as well as new features and bug fixes are introduced regularly.
 
 .. _index:
+.. _sample:

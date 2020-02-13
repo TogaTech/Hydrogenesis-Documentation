@@ -10,7 +10,7 @@ Hydrogenesis
    :maxdepth: 2
    :caption: Contents:
 
-Hydrogenesis is an object-oriented, high-level language for implementing DPROGs, which are programs hosted on the Fluidity blockchain and used for a number of purposes related to the Fluidity blockchain, Flow, and any other coins and DPROGs hosted by Fluidity.
+Hydrogenesis is an object-oriented, high-level language for implementing DPROGs, which are decentralized programs run on the Fluidity blockchain and used for a number of purposes related to the Fluidity blockchain, Flow, and any other coins and DPROGs hosted by Fluidity.
 
 Hydrogenesis was influenced by Python and JavaScript. All Hydrogenesis programs are hosted by the DPROG address and validated via the Fluidity blockchain. Programs are stored in wallet accounts to detect changes to the program hosted by the DPROG address, and enough invalidations can invalidate the DPROG address license from the Fluidity blockchain.
 

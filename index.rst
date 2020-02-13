@@ -19,7 +19,4 @@ When deploying DPROGs, you should use the latest released version of Hydrogenesi
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 1
-   
-   index.rst
-   sample.rst
+   :maxdepth: 2

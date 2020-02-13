@@ -1,8 +1,6 @@
 Sample DPROG
-========================================
+============
 
-.. toctree::
-   :maxdepth: 2
 
 Hydrogenesis is an object-oriented, high-level language for implementing DPROGs, which are programs hosted on the Fluidity blockchain and used for a number of purposes related to the Fluidity blockchain, Flow, and any other coins and DPROGs hosted by Fluidity.
 
@@ -14,3 +12,10 @@ Hydrogenesis does not allow for any calls from internet data due to the nature o
 blockchain network. The Fluidity blockchain therefore allows DPROGs to invoke other DPROGs, which may be constantly fed data by users that submit the data to the DPROG address through the Fluidity blockchain.
 
 When deploying DPROGs, you should use the latest released version of Hydrogenesis. This is because breaking changes as well as new features and bug fixes are introduced regularly.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+   
+   index.rst
+   sample.rst

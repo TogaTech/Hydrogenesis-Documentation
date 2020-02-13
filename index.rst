@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Hydrogenesis
-========================================
+============
 
 Hydrogenesis is an object-oriented, high-level language for implementing DPROGs, which are decentralized programs run on the Fluidity blockchain and used for a number of purposes related to the Fluidity blockchain, Flow, and any other coins and DPROGs hosted by Fluidity.
 
@@ -17,8 +17,8 @@ blockchain network. The Fluidity blockchain therefore allows DPROGs to invoke ot
 
 When deploying DPROGs, you should use the latest released version of Hydrogenesis. This is because breaking changes as well as new features and bug fixes are introduced regularly.
 
-Table of Contents
-========================================
 .. toctree::
    :maxdepth: 2
+   
+   index.rst
    sample.rst
